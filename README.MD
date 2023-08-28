@@ -1,1 +1,1 @@
-## It's Snake, but better
+## It's Snake, but with Q Learning
