@@ -1,1 +1,1 @@
-ECHO is on.
+## It's Snake, but better
